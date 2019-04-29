@@ -1,1 +1,2 @@
 # numericalmethods105 repository
+This repository is of the matlab programs that hsve been written for the CSU MECH 105 class on numerical methods. In this repository can be found programs that have ben used in class as well as the functions written by both the writers of the book "Applied Numerical Methods (4th edition)" by Steven C. Chapra and this student John R.F. Kelly. These functions focus on understanding and applying numerical analysys methods learned in this book.
